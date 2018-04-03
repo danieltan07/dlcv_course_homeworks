@@ -11,5 +11,5 @@ All code is written in Python 3 and uses numpy as its core library for implement
 - [Linear Regression](02 - Linear Regression/)
 - [Polynomial Regression and Regularized Regression](03 - Polynomial Regression and Regularized Regression/)
 - [Logistic Regression](04 - Logistic Regression/)
-- [Multinomial Logistic Regression (SoftMax)](05 - Multinomial Logistic Regression/)
+- [Multinomial Logistic Regression (SoftMax)]('05 - Multinomial Logistic Regression/')
 - Neural Networks (WIP)
