@@ -7,13 +7,9 @@ This repository contains the released assignments in the form of jupyter noteboo
 All code is written in Python 3 and uses numpy as its core library for implementing the algorithms. Please let me know if you find any errors / bugs.
 
 ### Table of Contents
-- [k-Nearest Neighbors](Introduction/)
-- [MDPs and Bellman Equations](MDP/)
-- [Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration](DP/)
-- [Monte Carlo Model-Free Prediction & Control](MC/)
-- [Temporal Difference Model-Free Prediction & Control](TD/)
-- [Function Approximation](FA/)
-- [Deep Q Learning](DQN/) (WIP)
-- [Policy Gradient Methods](PolicyGradient/) (WIP)
-- Learning and Planning (WIP)
-- Exploration and Exploitation (WIP)
+- [k-Nearest Neighbors (Adopted from Stanford's CS231n](01 - kNN exercise/)
+- [Linear Regression](02 - Linear Regression/)
+- [Polynomial Regression and Regularized Regression](03 - Polynomial Regression and Regularized Regression/)
+- [Logistic Regression](04 - Logistic Regression/)
+- [Multinomial Logistic Regression (SoftMax)](05 - Multinomial Logistic Regression/)
+- Neural Networks (WIP)
